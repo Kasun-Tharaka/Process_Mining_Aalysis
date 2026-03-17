@@ -1,3 +1,5 @@
 Case_ID,Activity,Timestamp,
 1001,Payment Issue Reported,2025-01-10
 1001,Document Verification,2025-01-11
+1001,Payment Resolved,2025-01-12
+1002,Payment Issue Reported,2025-01-15
